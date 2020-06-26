@@ -1,0 +1,4 @@
+- name: Start dns record operation
+  hosts: all
+  roles:
+     - dns-record

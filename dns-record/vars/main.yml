@@ -1,0 +1,9 @@
+---
+# vars file for dns-record
+#
+
+record_name: "{{ record_name }}"
+record_type: "{{ record_type }}"
+record_value: "{{ record_value }}"
+record_zone: "{{ record_zone }}"
+action: "{{ action }}"
